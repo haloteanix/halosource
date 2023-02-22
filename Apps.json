@@ -1,0 +1,13 @@
+{
+    "icon": "https://media.discordapp.net/attachments/1046961288317763688/1077079476011282512/IMG_0152.png",
+    "name": "sb47's MDC Source",
+    "apps": [
+      {
+        "title": "Cowabunga",
+        "urlimg": "https://media.discordapp.net/attachments/1046961288317763688/1077080210589102080/IMG_0292.webp",
+        "url": "https://github.com/leminlimez/Cowabunga/releases/download/v8.0.5/Cowabunga.ipa",
+        "bundleid": "com.leminlimez.cowabunga",
+        "completed": false
+      }
+    ]
+  }
